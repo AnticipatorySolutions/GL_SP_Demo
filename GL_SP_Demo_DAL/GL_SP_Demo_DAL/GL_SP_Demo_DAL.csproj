@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\GL_SP_Demo_Graph\GL_SP_Demo_Graph\GL_SP_Demo_Graph.csproj" />
+  </ItemGroup>
+
+</Project>

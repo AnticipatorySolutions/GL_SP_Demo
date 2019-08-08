@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GL_SP_Demo_DAL/1.0.0": {
+        "dependencies": {
+          "GL_SP_Demo_Graph": "1.0.0"
+        },
+        "runtime": {
+          "GL_SP_Demo_DAL.dll": {}
+        }
+      },
+      "GL_SP_Demo_Graph/1.0.0": {
+        "runtime": {
+          "GL_SP_Demo_Graph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GL_SP_Demo_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GL_SP_Demo_Graph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+C:\Users\Leslie\Documents\Visual Studio 2017\Projects\GL_SP_Demo\GL_SP_Demo.Tests\obj\Debug\GL_SP_Demo_API.Tests.csprojAssemblyReference.cache
+C:\Users\Leslie\Documents\Visual Studio 2017\Projects\GL_SP_Demo\GL_SP_Demo.Tests\obj\Debug\GL_SP_Demo_API.Tests.csproj.CoreCompileInputs.cache
