@@ -31,12 +31,12 @@ http://localhost:62301/api/Path/SP?src=KSA&dst=STW
         // Param dst = destination location code 3 value of type string
         // Returns piped string "|YYZ|DEN|" or message details.
 
-Test Cases:
-EXAMPLE: of 2 Step Trek:  src=YYZ&dst=LAX
-EXAMPLE: of 12 Step Trek: src=ASF&dst=MAJ
+        // Test Cases:
+        //EXAMPLE: of 2 Step Trek:  src=YYZ&dst=LAX
+        //EXAMPLE: of 12 Step Trek: src=ASF&dst=MAJ
         
-FUN EXAMPLES: src= PWM or CRW or SPI or TMS or EIS or ENY or SXB to anywhere
-FUN EXAMPLES: dst= NKC or GDN or TRD or PGA from anywhere
-INTERESTING NOTE: src=LBL&dst=DDC or src=DDC&dst=LBL otherwise these nodes can be src but not dst
+        //FUN EXAMPLES: src= PWM or CRW or SPI or TMS or EIS or ENY or SXB to anywhere
+        //FUN EXAMPLES: dst= NKC or GDN or TRD or PGA from anywhere
+        //INTERESTING NOTE: src=LBL&dst=DDC or src=DDC&dst=LBL otherwise these nodes can be src but not dst
         
         
